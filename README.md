@@ -7,6 +7,7 @@
 
 ### More projects I've worked on:
 
+- 📈 [Bull or Bear](https://github.com/MasWill/BullorBear)
 - ☎️ [Contacts Manager](https://github.com/Sleepingpirates/Small-Project)
 - 🤖 [Dad Bot](https://github.com/HJaen/dad-bot)
 - 👨‍🍳 [Fridge Pal](https://github.com/jadynLP/recipe)
